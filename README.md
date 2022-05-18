@@ -66,7 +66,7 @@ $ npm install
   <li>POSTGRES_PASSWORD=<пароль к пользователю базы данных (например, admin)></li>
   <li>POSTGRES_DB=<название базы данных (например, syc)></li>
   <li>POSTGRES_DATA_DIR=<путь к директории, в которой контейнер будет хранить данные постгреса на хостовой машине (например, /data/postgres)></li>
-  <li>PORPGADMIN_DEFAULT_EMAIL=< email для использования pgadmin (например, admin@admin.com)></li>
+  <li>PGADMIN_DEFAULT_EMAIL=< email для использования pgadmin (например, admin@admin.com)></li>
   <li>PGADMIN_DEFAULT_PASSWORD=<пароль для pgadmin (например, admin)></li>
   <li>PGADMIN_PORT=<порт для pgadmin (например, 9000)></li>
   <li>PGADMIN_DATA_DIR=<путь к директории, в которой контейнер будет хранить данные постгреса на хостовой машине (например, /data/pgadmin)></li>
